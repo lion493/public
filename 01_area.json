@@ -1,0 +1,30 @@
+{
+  "timeStamp":"2023-09-01 15:01:01",
+  "resultCount": 1,
+  "result": "SUCCESSS",
+  "message":"OK",
+  "data":[
+    {
+      "zipCd": "07277",
+      "transferFlag": "N",
+      "transferDate": "20230901150101",
+      "interfaceId": "1001",
+      "dongNm": "마곡",
+      "ciqNm": "김시공",
+      "ciqHpno": "010 3484 XXXX",
+      "ciqDept": "시스템강남팀",
+      "areaAddress": "서울 영등포구 문래동"
+    } ,
+    {
+      "zipCd": "07277",
+      "transferFlag": "N",
+      "transferDate": "20230901150101",
+      "interfaceId": "1002",
+      "dongNm": "마곡",
+      "ciqNm": "김시공",
+      "ciqHpno": "010 3484 XXXX",
+      "ciqDept": "시스템강남팀",
+      "areaAddress": "서울 영등포구 영등포로 1"
+    }
+  ]
+}
